@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gadgets Shop Management System", "Gadgets Shop Management System.csproj", "{DB90FE93-3AE1-4A28-8651-0D086C76CA9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB90FE93-3AE1-4A28-8651-0D086C76CA9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB90FE93-3AE1-4A28-8651-0D086C76CA9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB90FE93-3AE1-4A28-8651-0D086C76CA9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB90FE93-3AE1-4A28-8651-0D086C76CA9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {455BCBE3-9A12-45BD-856A-3514B40B23F5}
+	EndGlobalSection
+EndGlobal
